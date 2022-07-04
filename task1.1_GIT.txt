@@ -1,0 +1,48 @@
+200655e refs/remotes/origin/develop@{0}: update by push
+4201dcb refs/remotes/origin/images@{0}: update by push
+16d2de8 refs/remotes/origin/main@{0}: update by push
+d4d8d27 refs/remotes/origin/styles@{0}: update by push
+16d2de8 refs/heads/main@{0}: commit (merge): index.html
+16d2de8 HEAD@{0}: commit (merge): index.html
+516c3b2 HEAD@{1}: checkout: moving from develop to main
+200655e HEAD@{2}: checkout: moving from main to develop
+516c3b2 HEAD@{3}: reset: moving to HEAD
+516c3b2 HEAD@{4}: checkout: moving from develop to main
+200655e HEAD@{5}: reset: moving to HEAD
+200655e HEAD@{6}: checkout: moving from develop to develop
+200655e HEAD@{7}: reset: moving to HEAD
+200655e refs/heads/develop@{0}: commit (merge): index.html
+200655e HEAD@{8}: commit (merge): index.html
+4201dcb refs/heads/develop@{1}: merge images: Fast-forward
+4201dcb HEAD@{9}: merge images: Fast-forward
+3805efd HEAD@{10}: checkout: moving from styles to develop
+d4d8d27 HEAD@{11}: checkout: moving from main to styles
+516c3b2 refs/heads/main@{1}: commit: index.html
+516c3b2 HEAD@{12}: commit: index.html
+4201dcb HEAD@{13}: reset: moving to HEAD
+4201dcb refs/heads/main@{2}: merge images: Fast-forward
+4201dcb HEAD@{14}: merge images: Fast-forward
+6d1f7db HEAD@{15}: checkout: moving from images to main
+4201dcb HEAD@{16}: checkout: moving from develop to images
+3805efd HEAD@{17}: checkout: moving from styles to develop
+d4d8d27 refs/heads/styles@{0}: commit: images/
+d4d8d27 HEAD@{18}: commit: images/
+dd234d5 refs/heads/styles@{1}: commit: index.html
+dd234d5 HEAD@{19}: commit: index.html
+db649a1 refs/heads/styles@{2}: commit: styles/
+db649a1 HEAD@{20}: commit: styles/
+3805efd refs/heads/styles@{3}: branch: Created from HEAD
+3805efd HEAD@{21}: checkout: moving from develop to styles
+3805efd HEAD@{22}: checkout: moving from images to develop
+4201dcb refs/heads/images@{0}: commit: index.html
+4201dcb HEAD@{23}: commit: index.html
+aee7669 refs/heads/images@{1}: commit: images/
+aee7669 HEAD@{24}: commit: images/
+3805efd refs/heads/images@{2}: branch: Created from HEAD
+3805efd HEAD@{25}: checkout: moving from develop to images
+3805efd refs/heads/develop@{2}: commit: index.html
+3805efd HEAD@{26}: commit: index.html
+6d1f7db refs/heads/develop@{3}: branch: Created from HEAD
+6d1f7db HEAD@{27}: checkout: moving from main to develop
+6d1f7db refs/heads/main@{3}: commit (initial): readme.txt
+6d1f7db HEAD@{28}: commit (initial): readme.txt
